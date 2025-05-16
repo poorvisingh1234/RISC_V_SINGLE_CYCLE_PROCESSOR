@@ -11,3 +11,5 @@ Project_File_5 = src/Program_counter.v
 Project_File_6 = src/ALUControl.v
 Project_File_7 = src/PC_Adder.v
 Project_File_8 = src/RISC_V_TOP.v
+SET PathSeparator /
+SET ProjectRelativePaths 1
