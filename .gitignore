@@ -1,0 +1,10 @@
+# ModelSim files
+*.vcd
+*.wlf
+*.mpf
+work/
+transcript
+
+# OS files
+.DS_Store
+Thumbs.db
