@@ -1,10 +1,12 @@
-# ModelSim files
+
 *.vcd
 *.wlf
-*.mpf
 work/
 transcript
 
-# OS files
+
+!*.mpf 
+
+
 .DS_Store
 Thumbs.db
